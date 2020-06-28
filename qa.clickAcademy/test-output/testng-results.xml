@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="104240" started-at="2020-06-28T07:37:04Z" finished-at="2020-06-28T07:38:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="104240" started-at="2020-06-28T07:37:04Z" finished-at="2020-06-28T07:38:48Z">
+      <class name="qa.test.QaClickTest">
+        <test-method status="PASS" signature="testStart()[pri:0, instance:qa.test.QaClickTest@48524010]" name="testStart" duration-ms="104193" started-at="2020-06-28T07:37:04Z" finished-at="2020-06-28T07:38:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStart -->
+      </class> <!-- qa.test.QaClickTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
